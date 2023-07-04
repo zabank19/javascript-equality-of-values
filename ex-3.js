@@ -1,7 +1,6 @@
-function isPlainObject(obj) {
+function isPlainObject(value) {
   // Start coding here
 }
-
 
 // Example case
 let result1 = isPlainObject({ name: "John" });
